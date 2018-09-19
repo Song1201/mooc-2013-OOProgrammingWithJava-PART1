@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\lison\Documents\NetBeansProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-048.FirstCharacter\nbproject\build-impl.xml:603: The following error occurred while executing this line:
+C:\Users\lison\Documents\NetBeansProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-048.FirstCharacter\nbproject\build-impl.xml:245: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
